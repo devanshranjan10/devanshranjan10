@@ -30,7 +30,7 @@
 ```java
 public class Devansh {
     private String role = "Java Engineer ☕";
-    private String[] languages = {"Java", "JavaScript", "TypeScript", "Python", "HTML", "CSS"};
+    private String[] languages = {"Java", "C++", "C", "JavaScript", "TypeScript", "Python", "HTML", "CSS"};
     private String[] interests = {"DSA", "Competitive Programming", "Web Dev", "Backend Engineering"};
     private String[] competitivePlatforms = {"Codeforces", "LeetCode", "HackerRank"};
     private String codeforcesHandle = "devanshranjan";
@@ -74,8 +74,8 @@ public class Devansh {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshranjan10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10" height="200" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshranjan10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&border_radius=10" height="200" alt="languages graph" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=devanshranjan10&theme=tokyonight&cc=0000&tc=fff&ic=fff&bc=000" height="200" alt="stats graph" />
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=devanshranjan10&theme=tokyonight&layout=compact&langs_count=8" height="200" alt="languages graph" />
 </div>
 
 ---
@@ -83,7 +83,7 @@ public class Devansh {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devanshranjan10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devanshranjan10&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="trophy" />
 </div>
 
 ---
@@ -98,10 +98,10 @@ public class Devansh {
 
 **Codeforces Handle:** [devanshranjan](https://codeforces.com/profile/devanshranjan)
 
-![Codeforces Stats](https://cf.leedev.cn/api/card?username=devanshranjan&theme=tokyonight)
-
 **Languages Used for CP:** 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Focus Areas:**
 - 🔥 Data Structures & Algorithms
@@ -117,6 +117,8 @@ public class Devansh {
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -209,12 +211,16 @@ public class Devansh {
 ### 🌟 Solace - Mental Health Platform
 A comprehensive digital mental health platform for students with AI-powered chat, mood tracking, and community support.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshranjan10&repo=solace&theme=tokyonight&border_radius=10)](https://github.com/devanshranjan10/solace)
+[![Readme Card](https://github-stats-alpha.vercel.app/api/pin?username=devanshranjan10&repo=solace&theme=tokyonight)](https://github.com/devanshranjan10/solace)
+
+**🔗 [View Repository →](https://github.com/devanshranjan10/solace)**
 
 ### 🚀 OpenCause - Decentralized Fundraising Platform
 A blockchain-based transparent fundraising platform built with NestJS, Next.js, and Solidity smart contracts. Features crypto payments, evidence verification, and IPFS storage.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devanshranjan10&repo=opencausepublic&theme=tokyonight&border_radius=10)](https://github.com/devanshranjan10/opencausepublic)
+[![Readme Card](https://github-stats-alpha.vercel.app/api/pin?username=devanshranjan10&repo=opencausepublic&theme=tokyonight)](https://github.com/devanshranjan10/opencausepublic)
+
+**🔗 [View Repository →](https://github.com/devanshranjan10/opencausepublic)**
 
 </div>
 
@@ -248,15 +254,6 @@ A blockchain-based transparent fundraising platform built with NestJS, Next.js, 
   </a>
 </div>
 
----
-
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devanshranjan10/devanshranjan10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
 
 ## 💡 Fun Facts
 
