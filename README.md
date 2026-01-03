@@ -75,7 +75,6 @@ public class Devansh {
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=devanshranjan10&theme=tokyonight&cc=0000&tc=fff&ic=fff&bc=000" height="200" alt="stats graph" />
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=devanshranjan10&theme=tokyonight&layout=compact&langs_count=8" height="200" alt="languages graph" />
 </div>
 
 ---
@@ -100,8 +99,6 @@ public class Devansh {
 
 **Languages Used for CP:** 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Focus Areas:**
 - 🔥 Data Structures & Algorithms
@@ -211,14 +208,10 @@ public class Devansh {
 ### 🌟 Solace - Mental Health Platform
 A comprehensive digital mental health platform for students with AI-powered chat, mood tracking, and community support.
 
-[![Readme Card](https://github-stats-alpha.vercel.app/api/pin?username=devanshranjan10&repo=solace&theme=tokyonight)](https://github.com/devanshranjan10/solace)
-
 **🔗 [View Repository →](https://github.com/devanshranjan10/solace)**
 
 ### 🚀 OpenCause - Decentralized Fundraising Platform
 A blockchain-based transparent fundraising platform built with NestJS, Next.js, and Solidity smart contracts. Features crypto payments, evidence verification, and IPFS storage.
-
-[![Readme Card](https://github-stats-alpha.vercel.app/api/pin?username=devanshranjan10&repo=opencausepublic&theme=tokyonight)](https://github.com/devanshranjan10/opencausepublic)
 
 **🔗 [View Repository →](https://github.com/devanshranjan10/opencausepublic)**
 
@@ -265,14 +258,6 @@ A blockchain-based transparent fundraising platform built with NestJS, Next.js, 
 - 💬 Ask me about: Java Development, DSA, Competitive Programming, Web Dev, Mental Health Tech, Blockchain
 - ⚡ Fun fact: I optimize Java code like it's a competitive programming problem!
 - 🚀 Building scalable applications with Java Spring Boot and modern web technologies
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/devanshranjan10?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FToronto" alt="metrics" />
-</div>
 
 ---
 
