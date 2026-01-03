@@ -95,8 +95,6 @@ public class Devansh {
 ### 🎯 *Solving Problems Daily in Java* 🎯
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/devanshranjan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/devanshranjan10/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/devanshranjan10)
 
 **Codeforces Handle:** [devanshranjan](https://codeforces.com/profile/devanshranjan)
 
@@ -104,7 +102,6 @@ public class Devansh {
 
 **Languages Used for CP:** 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Focus Areas:**
 - 🔥 Data Structures & Algorithms
@@ -240,16 +237,13 @@ A blockchain-based transparent fundraising platform built with NestJS, Next.js, 
   <a href="https://codeforces.com/profile/devanshranjan" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://leetcode.com/devanshranjan10/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://linkedin.com/in/devanshranjan10" target="_blank">
+  <a href="https://linkedin.com/in/devanshranjan" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/devanshranjan10" target="_blank">
+  <a href="https://twitter.com/dewanshranjan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:devanshranjan10@gmail.com" target="_blank">
+  <a href="mailto:dewanshranjan1047@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
